@@ -1,2 +1,1 @@
-# massivejobs-docs
-MassiveJob.NET web site source
+# MassiveJobs.NET GitHub Pages Source
