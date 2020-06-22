@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: MassiveJob.NET
 description: Documentation for the MassiveJobs.NET library
+github:
+  repository_url: https://github.com/enadzan/massivejobs-rabbitmq
