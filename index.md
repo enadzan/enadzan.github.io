@@ -4,6 +4,7 @@ MassiveJobs.NET is an open source library for simple, fast distributed backgroun
 
 __WARNING: MassiveJobs.NET is still in pre-release which means that it hasn't been tested in production environments just yet. However, we invite you to try it out and report any issues you may find.__
 
+MassiveJobs.NET is inspired by [Sidekiq library for Ruby](https://sidekiq.org/), but it has no association with it.
 ### Features
 
 #### Simple job definition and publishing
