@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: MassiveJobs.NET
-description: Documentation for the MassiveJobs.NET library
+description: Simple, distributed background processing for .NET
 github:
   repository_url: https://github.com/enadzan/massivejobs-rabbitmq
