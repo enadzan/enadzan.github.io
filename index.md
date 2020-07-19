@@ -36,7 +36,8 @@ WelcomeEmailSender.Publish(customerEmail, TimeSpan.FromSeconds(5));
 
 Jobs can be performed periodically, every specified number of seconds. For example, if you have a `StatusChecker` job:
 ```csharp
-// Inherit from Job<T> (no second type parameter) if your Perform method does not have any parameters.
+// Inherit from Job<T> (no second type parameter) 
+// if your Perform method does not have any parameters.
 public class StatusChecker: Job<StatusChecker> 
 {
   public override void Perform() 
@@ -47,7 +48,8 @@ public class StatusChecker: Job<StatusChecker>
 ```
 then, on your application start you would call:
 ```csharp
-StatusChecker.PublishPeriodic("status_check", 60); // run every 60 seconds
+// run every 60 seconds
+StatusChecker.PublishPeriodic("status_check", 60);
 ```
 The first parameter is the "periodic job id" and it must be unique across all periodic jobs. This id is used to de-duplicate periodic jobs in scenarios where you have multiple instances of the application running, such as web farms. The periodic job will be executed every 60 seconds by only one of the instances of your application.  As long as there is at least one instance running, the job will be performed.
 
