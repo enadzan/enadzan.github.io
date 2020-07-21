@@ -111,7 +111,7 @@ MassiveJobs.NET allows running a large number of jobs, fast. An [automated test 
 
 Of course, depending of what your jobs are actually doing, network latencies, etc., you may have a different experience. But, the library itself will not get in your way and it gives you the option to distribute both publishers and consumers across multiple machines.
 
-Furthermore, jobs are executed in batches (100 by default, but configurable) and each batch is executed in one service scope. This can boost the performance of your jobs if they are communicating with a database. Since EF db contexts are usually a scope level resource in applications with dependency injection, you could configure your db context to begin a transaction on creation of DbContext and commit on dispose. Depending on your business logic this may not be feasible, but if yes, it would allow you to have one DB commit every 100 (or more) job executions. That, combined with multiple parallel workers, can significantly boost the performance of your DB intensive jobs.
+Furthermore, jobs are executed in batches (100 by default, but configurable) and each batch is executed in one service scope. This can boost the performance of your jobs if they are communicating with a database. Since EF db contexts are usually a scope level resource in applications with dependency injection, you could benefit from the fact that first level cache is not cleared on each job execution.
 
 ## Quick Start
 For a quick start visit MassiveJobs.RabbitMqBroker github repository:
