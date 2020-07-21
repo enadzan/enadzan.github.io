@@ -6,14 +6,6 @@ __WARNING: MassiveJobs.NET is still in pre-release which means that it hasn't be
 
 MassiveJobs.NET is inspired by [Sidekiq library for Ruby](https://sidekiq.org/), but has no association with it.
 
-### Why?
-
-MassiveJobs.NET allows running a large number of jobs, fast. An [automated test publishing and performing 100,000 jobs](https://github.com/enadzan/massivejobs-rabbitmq/blob/master/MassiveJobs.RabbitMqBroker.Tests/RabbitMqPublisherTest.cs#L43) runs under 10 secods on a developer machine (i5 7th Gen, 2c/4t), with a local RabbitMQ instance. This includes serializing 100,000 jobs to JSON, publishing them as messages to RabbitMQ, consuming them from RabbitMQ, deserializing them and invoking `Perform` method on each job (which only does an interlocked counter increase). 
-
-Of course, depending of what your jobs are actually doing, network latencies, etc., you may have a different experience. But, the library itself will not get in your way and it gives you the option to distribute both publishers and consumers across multiple machines.
-
-Furthermore, jobs are executed in batches (100 by default, but configurable) and each batch is executed in one service scope. This can boost the performance of your jobs if they are communicating with a database. Since EF db contexts are usually a scope level resource in applications with dependency injection, you could configure your db context to begin a transaction on creation of DbContext and commit on dispose. Depending on your business logic this may not be feasible, but if yes, it would allow you to have one DB commit every 100 (or more) job executions. That, combined with multiple parallel workers, can significantly boost the performance of your DB intensive jobs.
-
 ### Features
 
 #### Simple job definition and publishing
@@ -112,6 +104,14 @@ This will start MassiveJobs workers within a hosted background service.
 ### Support for Dependency Injection
 
 In a .NET Core hosted environment your jobs can use constructor dependency injection. This works without the need to register your jobs with the service container (of course, services that your job is using must be registered). This works by simply declaring a constructor with services needed as parameters. Your jobs are executed withing a scope, so scope level services, such as DbContext, can be injected in the constructor of your jobs.
+
+## Why?
+
+MassiveJobs.NET allows running a large number of jobs, fast. An [automated test publishing and performing 100,000 jobs](https://github.com/enadzan/massivejobs-rabbitmq/blob/master/MassiveJobs.RabbitMqBroker.Tests/RabbitMqPublisherTest.cs#L43) runs under 10 secods on a developer machine (i5 7th Gen, 2c/4t), with a local RabbitMQ instance. This includes serializing 100,000 jobs to JSON, publishing them as messages to RabbitMQ, consuming them from RabbitMQ, deserializing them and invoking `Perform` method on each job (which only does an interlocked counter increase). 
+
+Of course, depending of what your jobs are actually doing, network latencies, etc., you may have a different experience. But, the library itself will not get in your way and it gives you the option to distribute both publishers and consumers across multiple machines.
+
+Furthermore, jobs are executed in batches (100 by default, but configurable) and each batch is executed in one service scope. This can boost the performance of your jobs if they are communicating with a database. Since EF db contexts are usually a scope level resource in applications with dependency injection, you could configure your db context to begin a transaction on creation of DbContext and commit on dispose. Depending on your business logic this may not be feasible, but if yes, it would allow you to have one DB commit every 100 (or more) job executions. That, combined with multiple parallel workers, can significantly boost the performance of your DB intensive jobs.
 
 ## Quick Start
 For a quick start visit MassiveJobs.RabbitMqBroker github repository:
