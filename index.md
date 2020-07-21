@@ -69,6 +69,19 @@ Periodic jobs can be published using cron expression syntax. For example, this w
 SummaryJob.PublishPeriodic("daily_summary", "0 0 6 * * MON-FRI")
 ```
 
+### Publishing jobs in batches
+Publishing jobs in batches with the help of `JobBatch` class, can significantly increase the publishing speed:
+```csharp
+JobBatch.Do(() =>
+{
+    for (var i = 0; i < 100_000; i++)
+    {
+        YourJob.Publish(jobArguments);
+    }
+});
+```
+__Note that batches are not transactions - they serve purely for improving publishing performance__
+
 ### Support for .NET Framework 4.6.1+ and .NET Core 2.0+
 MassiveJobs.NET is distributed as a .net standard 2.0 library which means that it supports both .NET Framework (version 4.6.1 and above) and .NET Core (2.0 and above).
 
