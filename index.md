@@ -2,7 +2,27 @@
 
 MassiveJobs.NET is an open-source library for simple, fast distributed background processing for .NET applications. Distributed processing is implemented using the RabbitMQ server. The library allows easy scale-out by deploying multiple instances of your application on multiple machines.
 
-__WARNING: MassiveJobs.NET is still in pre-release, which means that it hasn't been tested in production environments just yet. However, we invite you to try it out and report any issues you may find.__
+### Why?
+
+#### Queue isolation
+
+The published jobs are stored in multiple RabbitMQ queues. That means, even if a long-running job blocks one queue, it will not affect the other queues. When you publish a job, you can optionally specify the timeout value for the job execution (the default is 5 seconds). If you specify a value above 10 seconds, the job will be routed to a separate long-running queue to prevent it from blocking the regular queues. There are also separate queues for periodic jobs, delayed jobs, and jobs that are waiting to be retried because an exception was raised during job execution.
+
+#### Low latency
+
+In most cases, when a job is published, it will be immediately picked up and executed by a running instance of your application. However, this may be affected by the network connection between your application instances and the RabbitMQ server, the size of jour job's arguments, and the utilization of the machine running the RabbitMQ server...
+
+#### Job Safety
+
+If your application is stopped or if it crashes, the unfinished jobs are returned to the original queue and will be picked up by another instance of your application (or the same instance when it restarts). This means that, in some situations, your jobs may be triggered twice, so __it is imperative that your jobs are idempotent__ if executing the same job twice has negative effects on your application.
+
+#### Speed
+
+MassiveJobs.NET allows running a large number of jobs, fast. An [automated test publishing and performing 100,000 jobs](https://github.com/enadzan/massivejobs-rabbitmq/blob/master/MassiveJobs.RabbitMqBroker.Tests/RabbitMqPublisherTest.cs#L43) runs under 10 seconds on a developer machine (i5 7th Gen, 2c/4t), with a local RabbitMQ instance. This includes serializing 100,000 jobs to JSON, publishing them as messages to RabbitMQ, consuming them from RabbitMQ, deserializing them, and invoking the `Perform` method on each job (which only does an interlocked counter increase). 
+
+Of course, depending on what your jobs are doing, network latencies, etc., you may have a different experience. But, the library itself will not get in your way and it gives you the option to distribute both publishers and consumers across multiple machines.
+
+__WARNING: MassiveJobs.NET is still in pre-release. However, we invite you to try it out and report any issues you may find.__
 
 MassiveJobs.NET is inspired by [Sidekiq library for Ruby](https://sidekiq.org/) but has no association with it.
 
@@ -124,13 +144,6 @@ public class WelcomeEmailSender: Job<WelcomeEmailSender, string>
   }
 }
 ```
-
-## Why?
-
-MassiveJobs.NET allows running a large number of jobs, fast. An [automated test publishing and performing 100,000 jobs](https://github.com/enadzan/massivejobs-rabbitmq/blob/master/MassiveJobs.RabbitMqBroker.Tests/RabbitMqPublisherTest.cs#L43) runs under 10 seconds on a developer machine (i5 7th Gen, 2c/4t), with a local RabbitMQ instance. This includes serializing 100,000 jobs to JSON, publishing them as messages to RabbitMQ, consuming them from RabbitMQ, deserializing them, and invoking the `Perform` method on each job (which only does an interlocked counter increase). 
-
-Of course, depending on what your jobs are doing, network latencies, etc., you may have a different experience. But, the library itself will not get in your way and it gives you the option to distribute both publishers and consumers across multiple machines.
-
 
 ## Quick Start
 For a quick start visit MassiveJobs.RabbitMqBroker github repository:
