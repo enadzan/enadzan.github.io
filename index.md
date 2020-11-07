@@ -6,11 +6,11 @@ MassiveJobs.NET is an open-source library for simple, fast distributed backgroun
 
 #### Queue isolation
 
-The published jobs are stored in multiple RabbitMQ queues. That means, even if a long-running job blocks one queue, it will not affect the other queues. When you publish a job, you can optionally specify the timeout value for the job execution (the default is 5 seconds). If you specify a value above 10 seconds, the job will be routed to a separate long-running queue to prevent it from blocking the regular queues. There are also separate queues for periodic jobs, delayed jobs, and jobs that are waiting to be retried because an exception was raised during job execution.
+The published jobs are stored in multiple RabbitMQ queues. That means, even if a long-running job blocks one queue, it will not affect the other queues. When you publish a job, you can optionally specify the timeout value for the job execution (the default is 5 seconds). If you specify a value above 10 seconds, the job will be routed to a separate long-running queue to prevent it from blocking the regular queues. There are also separate queues for periodic jobs, delayed jobs, and jobs that are waiting to be retried because an exception was raised during a job execution.
 
 #### Low latency
 
-In most cases, when a job is published, it will be immediately picked up and executed by a running instance of your application. However, this may be affected by the network connection between your application instances and the RabbitMQ server, the size of jour job's arguments, and the utilization of the machine running the RabbitMQ server...
+In most cases, when a job is published, it will be immediately picked up and executed by a running instance of your application. However, this may be affected by the network connection between your application instances and the RabbitMQ server, the size of your job's arguments, and the utilization of the machine running the RabbitMQ server...
 
 #### Job Safety
 
