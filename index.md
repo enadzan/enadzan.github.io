@@ -119,7 +119,26 @@ public class Startup
     //...
 }
 ```
-This will start MassiveJobs workers within a hosted background service.
+This will register the required MassiveJobs services, but you still need to initialize the MassiveJobs library. To initialize it, call "InitMassiveJobs()" before calling "Run()" in your `Program.cs`: 
+```csharp
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        CreateHostBuilder(args)
+            .Build()
+            .InitMassiveJobs()
+            .Run();
+    }
+
+    public static IHostBuilder CreateHostBuilder(string[] args) =>
+        Host.CreateDefaultBuilder(args)
+            .ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup<Startup>();
+            });
+}
+```
 
 ### Support for Dependency Injection
 
