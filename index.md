@@ -165,5 +165,4 @@ public class WelcomeEmailSender: Job<WelcomeEmailSender, string>
 ```
 
 ## Quick Start
-For a quick start visit MassiveJobs.RabbitMqBroker github repository:
-- [MassiveJobs.RabbitMqBroker](https://github.com/enadzan/massivejobs-rabbitmq)
+For a quick start visit [MassiveJobs.NET GitHub repository](https://github.com/enadzan/massivejobs).
