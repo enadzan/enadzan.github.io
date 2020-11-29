@@ -99,46 +99,28 @@ MassiveJobs.NET is distributed as a .net standard 2.0 library, which means that 
 
 ### Support for .NET Core hosted environments
 
-MassiveJobs.NET is easy to integrate with a .NET Core hosted environment (ASP.NET Core, Worker Services) by installing `MassiveJobs.RabbitMqBroker.Hosting` package in your application. Then, in your startup class, when configuring services, call services.AddMassiveJobs().
+MassiveJobs.NET is easy to integrate with a .NET Core hosted environment (ASP.NET Core, Worker Services) by installing `MassiveJobs.RabbitMqBroker.Hosting` package in your application. Then, in your startup class, when configuring services, call `services.AddMassiveJobs().UseRabbitMqBroker()`.
 ```csharp
-public class Startup
+//...
+using MassiveJobs.RabbitMqBroker.Hosting;
+
+namespace MassiveJobs.Examples.Api
 {
-    public Startup(IConfiguration configuration)
-    {
-        Configuration = configuration;
-    }
-
-    public IConfiguration Configuration { get; }
-
-    public void ConfigureServices(IServiceCollection services)
+    public class Startup
     {
         //...
-        services.AddMassiveJobs();
+        public void ConfigureServices(IServiceCollection services)
+        {
+            //...
+            services.AddMassiveJobs()
+              .UseRabbitMqBroker();
+        }
+        //...
     }
-
-    //...
 }
 ```
-This will register the required MassiveJobs services, but you still need to initialize the MassiveJobs library. To initialize it, call "InitMassiveJobs()" before calling "Run()" in your `Program.cs`: 
-```csharp
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        CreateHostBuilder(args)
-            .Build()
-            .InitMassiveJobs()
-            .Run();
-    }
 
-    public static IHostBuilder CreateHostBuilder(string[] args) =>
-        Host.CreateDefaultBuilder(args)
-            .ConfigureWebHostDefaults(webBuilder =>
-            {
-                webBuilder.UseStartup<Startup>();
-            });
-}
-```
+This will register the required MassiveJobs services, and start a background hosted service for running the job workers. Now you can publish jobs from a controller. 
 
 ### Support for Dependency Injection
 
