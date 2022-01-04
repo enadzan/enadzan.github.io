@@ -1,0 +1,7 @@
+{
+  "short_name": "Classic Seven - Demo",
+  "name": "Classinc Seven Slot - Demo",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}
