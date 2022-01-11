@@ -1,0 +1,468 @@
+{"frames": {
+
+"buttons_interface/spin_button_animation/spin_button_animation_00038.png":
+{
+	"frame": {"x":1,"y":1,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00039.png":
+{
+	"frame": {"x":1,"y":170,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00040.png":
+{
+	"frame": {"x":426,"y":1,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00041.png":
+{
+	"frame": {"x":1,"y":170,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00042.png":
+{
+	"frame": {"x":1,"y":339,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00043.png":
+{
+	"frame": {"x":426,"y":170,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00044.png":
+{
+	"frame": {"x":851,"y":1,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00045.png":
+{
+	"frame": {"x":1,"y":508,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00046.png":
+{
+	"frame": {"x":426,"y":339,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00047.png":
+{
+	"frame": {"x":851,"y":170,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00048.png":
+{
+	"frame": {"x":1276,"y":1,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00049.png":
+{
+	"frame": {"x":851,"y":170,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00050.png":
+{
+	"frame": {"x":1,"y":677,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00051.png":
+{
+	"frame": {"x":426,"y":508,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00052.png":
+{
+	"frame": {"x":851,"y":339,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00053.png":
+{
+	"frame": {"x":1276,"y":170,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00054.png":
+{
+	"frame": {"x":1,"y":846,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00060.png":
+{
+	"frame": {"x":426,"y":677,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00061.png":
+{
+	"frame": {"x":851,"y":508,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00062.png":
+{
+	"frame": {"x":1276,"y":339,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00063.png":
+{
+	"frame": {"x":1701,"y":1,"w":423,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00064.png":
+{
+	"frame": {"x":1,"y":1015,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00065.png":
+{
+	"frame": {"x":426,"y":846,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00066.png":
+{
+	"frame": {"x":851,"y":677,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00067.png":
+{
+	"frame": {"x":1276,"y":508,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00068.png":
+{
+	"frame": {"x":1870,"y":1,"w":423,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00069.png":
+{
+	"frame": {"x":1,"y":1184,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00070.png":
+{
+	"frame": {"x":426,"y":1015,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00071.png":
+{
+	"frame": {"x":851,"y":846,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00072.png":
+{
+	"frame": {"x":1276,"y":677,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00073.png":
+{
+	"frame": {"x":1,"y":1353,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00074.png":
+{
+	"frame": {"x":426,"y":1184,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00075.png":
+{
+	"frame": {"x":851,"y":1015,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00076.png":
+{
+	"frame": {"x":1276,"y":846,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00077.png":
+{
+	"frame": {"x":1701,"y":426,"w":423,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00078.png":
+{
+	"frame": {"x":1,"y":1522,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00079.png":
+{
+	"frame": {"x":426,"y":1353,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00080.png":
+{
+	"frame": {"x":851,"y":1184,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00081.png":
+{
+	"frame": {"x":1276,"y":1015,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00082.png":
+{
+	"frame": {"x":1870,"y":426,"w":423,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00083.png":
+{
+	"frame": {"x":1,"y":1691,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00084.png":
+{
+	"frame": {"x":426,"y":1522,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00085.png":
+{
+	"frame": {"x":851,"y":1353,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00086.png":
+{
+	"frame": {"x":1276,"y":1184,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00087.png":
+{
+	"frame": {"x":1701,"y":851,"w":423,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00088.png":
+{
+	"frame": {"x":1,"y":1860,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00089.png":
+{
+	"frame": {"x":426,"y":1691,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00090.png":
+{
+	"frame": {"x":851,"y":1522,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00091.png":
+{
+	"frame": {"x":1276,"y":1353,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00092.png":
+{
+	"frame": {"x":1870,"y":851,"w":423,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00093.png":
+{
+	"frame": {"x":426,"y":1860,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00094.png":
+{
+	"frame": {"x":851,"y":1691,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00095.png":
+{
+	"frame": {"x":1276,"y":1522,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00096.png":
+{
+	"frame": {"x":851,"y":1860,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00097.png":
+{
+	"frame": {"x":1276,"y":1691,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00098.png":
+{
+	"frame": {"x":1701,"y":1276,"w":423,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+}},
+"animations": {
+	"buy_coins_button": ["buttons_interface/buy_coins_button/buy_coins_button_00000.png","buttons_interface/buy_coins_button/buy_coins_button_00001.png","buttons_interface/buy_coins_button/buy_coins_button_00002.png","buttons_interface/buy_coins_button/buy_coins_button_00003.png","buttons_interface/buy_coins_button/buy_coins_button_00004.png","buttons_interface/buy_coins_button/buy_coins_button_00005.png","buttons_interface/buy_coins_button/buy_coins_button_00006.png","buttons_interface/buy_coins_button/buy_coins_button_00007.png","buttons_interface/buy_coins_button/buy_coins_button_00008.png","buttons_interface/buy_coins_button/buy_coins_button_00009.png","buttons_interface/buy_coins_button/buy_coins_button_00010.png","buttons_interface/buy_coins_button/buy_coins_button_00011.png","buttons_interface/buy_coins_button/buy_coins_button_00012.png","buttons_interface/buy_coins_button/buy_coins_button_00013.png","buttons_interface/buy_coins_button/buy_coins_button_00014.png","buttons_interface/buy_coins_button/buy_coins_button_00015.png","buttons_interface/buy_coins_button/buy_coins_button_00016.png","buttons_interface/buy_coins_button/buy_coins_button_00017.png","buttons_interface/buy_coins_button/buy_coins_button_00018.png","buttons_interface/buy_coins_button/buy_coins_button_00019.png","buttons_interface/buy_coins_button/buy_coins_button_00020.png","buttons_interface/buy_coins_button/buy_coins_button_00021.png","buttons_interface/buy_coins_button/buy_coins_button_00022.png","buttons_interface/buy_coins_button/buy_coins_button_00023.png","buttons_interface/buy_coins_button/buy_coins_button_00024.png","buttons_interface/buy_coins_button/buy_coins_button_00025.png","buttons_interface/buy_coins_button/buy_coins_button_00026.png","buttons_interface/buy_coins_button/buy_coins_button_00027.png","buttons_interface/buy_coins_button/buy_coins_button_00028.png","buttons_interface/buy_coins_button/buy_coins_button_00029.png","buttons_interface/buy_coins_button/buy_coins_button_00030.png","buttons_interface/buy_coins_button/buy_coins_button_00031.png","buttons_interface/buy_coins_button/buy_coins_button_00032.png","buttons_interface/buy_coins_button/buy_coins_button_00033.png","buttons_interface/buy_coins_button/buy_coins_button_00034.png","buttons_interface/buy_coins_button/buy_coins_button_00035.png","buttons_interface/buy_coins_button/buy_coins_button_00036.png","buttons_interface/buy_coins_button/buy_coins_button_00037.png","buttons_interface/buy_coins_button/buy_coins_button_00038.png","buttons_interface/buy_coins_button/buy_coins_button_00039.png"],
+	"spin_button_animation": ["buttons_interface/spin_button_animation/spin_button_animation_00000.png","buttons_interface/spin_button_animation/spin_button_animation_00001.png","buttons_interface/spin_button_animation/spin_button_animation_00002.png","buttons_interface/spin_button_animation/spin_button_animation_00003.png","buttons_interface/spin_button_animation/spin_button_animation_00004.png","buttons_interface/spin_button_animation/spin_button_animation_00005.png","buttons_interface/spin_button_animation/spin_button_animation_00006.png","buttons_interface/spin_button_animation/spin_button_animation_00007.png","buttons_interface/spin_button_animation/spin_button_animation_00008.png","buttons_interface/spin_button_animation/spin_button_animation_00009.png","buttons_interface/spin_button_animation/spin_button_animation_00010.png","buttons_interface/spin_button_animation/spin_button_animation_00011.png","buttons_interface/spin_button_animation/spin_button_animation_00012.png","buttons_interface/spin_button_animation/spin_button_animation_00013.png","buttons_interface/spin_button_animation/spin_button_animation_00014.png","buttons_interface/spin_button_animation/spin_button_animation_00015.png","buttons_interface/spin_button_animation/spin_button_animation_00016.png","buttons_interface/spin_button_animation/spin_button_animation_00017.png","buttons_interface/spin_button_animation/spin_button_animation_00018.png","buttons_interface/spin_button_animation/spin_button_animation_00019.png","buttons_interface/spin_button_animation/spin_button_animation_00020.png","buttons_interface/spin_button_animation/spin_button_animation_00021.png","buttons_interface/spin_button_animation/spin_button_animation_00022.png","buttons_interface/spin_button_animation/spin_button_animation_00023.png","buttons_interface/spin_button_animation/spin_button_animation_00024.png","buttons_interface/spin_button_animation/spin_button_animation_00025.png","buttons_interface/spin_button_animation/spin_button_animation_00026.png","buttons_interface/spin_button_animation/spin_button_animation_00027.png","buttons_interface/spin_button_animation/spin_button_animation_00028.png","buttons_interface/spin_button_animation/spin_button_animation_00029.png","buttons_interface/spin_button_animation/spin_button_animation_00030.png","buttons_interface/spin_button_animation/spin_button_animation_00031.png","buttons_interface/spin_button_animation/spin_button_animation_00032.png","buttons_interface/spin_button_animation/spin_button_animation_00033.png","buttons_interface/spin_button_animation/spin_button_animation_00034.png","buttons_interface/spin_button_animation/spin_button_animation_00035.png","buttons_interface/spin_button_animation/spin_button_animation_00036.png","buttons_interface/spin_button_animation/spin_button_animation_00037.png","buttons_interface/spin_button_animation/spin_button_animation_00038.png","buttons_interface/spin_button_animation/spin_button_animation_00039.png","buttons_interface/spin_button_animation/spin_button_animation_00040.png","buttons_interface/spin_button_animation/spin_button_animation_00041.png","buttons_interface/spin_button_animation/spin_button_animation_00042.png","buttons_interface/spin_button_animation/spin_button_animation_00043.png","buttons_interface/spin_button_animation/spin_button_animation_00044.png","buttons_interface/spin_button_animation/spin_button_animation_00045.png","buttons_interface/spin_button_animation/spin_button_animation_00046.png","buttons_interface/spin_button_animation/spin_button_animation_00047.png","buttons_interface/spin_button_animation/spin_button_animation_00048.png","buttons_interface/spin_button_animation/spin_button_animation_00049.png","buttons_interface/spin_button_animation/spin_button_animation_00050.png","buttons_interface/spin_button_animation/spin_button_animation_00051.png","buttons_interface/spin_button_animation/spin_button_animation_00052.png","buttons_interface/spin_button_animation/spin_button_animation_00053.png","buttons_interface/spin_button_animation/spin_button_animation_00054.png","buttons_interface/spin_button_animation/spin_button_animation_00055.png","buttons_interface/spin_button_animation/spin_button_animation_00056.png","buttons_interface/spin_button_animation/spin_button_animation_00057.png","buttons_interface/spin_button_animation/spin_button_animation_00058.png","buttons_interface/spin_button_animation/spin_button_animation_00059.png","buttons_interface/spin_button_animation/spin_button_animation_00060.png","buttons_interface/spin_button_animation/spin_button_animation_00061.png","buttons_interface/spin_button_animation/spin_button_animation_00062.png","buttons_interface/spin_button_animation/spin_button_animation_00063.png","buttons_interface/spin_button_animation/spin_button_animation_00064.png","buttons_interface/spin_button_animation/spin_button_animation_00065.png","buttons_interface/spin_button_animation/spin_button_animation_00066.png","buttons_interface/spin_button_animation/spin_button_animation_00067.png","buttons_interface/spin_button_animation/spin_button_animation_00068.png","buttons_interface/spin_button_animation/spin_button_animation_00069.png","buttons_interface/spin_button_animation/spin_button_animation_00070.png","buttons_interface/spin_button_animation/spin_button_animation_00071.png","buttons_interface/spin_button_animation/spin_button_animation_00072.png","buttons_interface/spin_button_animation/spin_button_animation_00073.png","buttons_interface/spin_button_animation/spin_button_animation_00074.png","buttons_interface/spin_button_animation/spin_button_animation_00075.png","buttons_interface/spin_button_animation/spin_button_animation_00076.png","buttons_interface/spin_button_animation/spin_button_animation_00077.png","buttons_interface/spin_button_animation/spin_button_animation_00078.png","buttons_interface/spin_button_animation/spin_button_animation_00079.png","buttons_interface/spin_button_animation/spin_button_animation_00080.png","buttons_interface/spin_button_animation/spin_button_animation_00081.png","buttons_interface/spin_button_animation/spin_button_animation_00082.png","buttons_interface/spin_button_animation/spin_button_animation_00083.png","buttons_interface/spin_button_animation/spin_button_animation_00084.png","buttons_interface/spin_button_animation/spin_button_animation_00085.png","buttons_interface/spin_button_animation/spin_button_animation_00086.png","buttons_interface/spin_button_animation/spin_button_animation_00087.png","buttons_interface/spin_button_animation/spin_button_animation_00088.png","buttons_interface/spin_button_animation/spin_button_animation_00089.png","buttons_interface/spin_button_animation/spin_button_animation_00090.png","buttons_interface/spin_button_animation/spin_button_animation_00091.png","buttons_interface/spin_button_animation/spin_button_animation_00092.png","buttons_interface/spin_button_animation/spin_button_animation_00093.png","buttons_interface/spin_button_animation/spin_button_animation_00094.png","buttons_interface/spin_button_animation/spin_button_animation_00095.png","buttons_interface/spin_button_animation/spin_button_animation_00096.png","buttons_interface/spin_button_animation/spin_button_animation_00097.png","buttons_interface/spin_button_animation/spin_button_animation_00098.png"],
+	"spin_button_animation_back": ["buttons_interface/spin_button_animation_back/spin_button_animation_back_00000.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00001.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00002.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00003.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00004.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00005.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00006.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00007.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00008.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00009.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00010.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00011.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00012.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00013.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00014.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00015.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00016.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00017.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00018.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00019.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00020.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00021.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00022.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00023.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00024.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00025.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00026.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00027.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00028.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00029.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00030.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00031.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00032.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00033.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00034.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00035.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00036.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00037.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00038.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00039.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00040.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00041.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00042.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00043.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00044.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00045.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00046.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00047.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00048.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00049.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00050.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00051.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00052.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00053.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00054.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00055.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00056.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00057.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00058.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00059.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00060.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00061.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00062.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00063.png"],
+	"experience_bar_anim": ["experience_bar/experience_bar_anim/experience_bar_anim_00000.png","experience_bar/experience_bar_anim/experience_bar_anim_00001.png","experience_bar/experience_bar_anim/experience_bar_anim_00002.png","experience_bar/experience_bar_anim/experience_bar_anim_00003.png","experience_bar/experience_bar_anim/experience_bar_anim_00004.png","experience_bar/experience_bar_anim/experience_bar_anim_00005.png","experience_bar/experience_bar_anim/experience_bar_anim_00006.png","experience_bar/experience_bar_anim/experience_bar_anim_00007.png","experience_bar/experience_bar_anim/experience_bar_anim_00008.png","experience_bar/experience_bar_anim/experience_bar_anim_00009.png","experience_bar/experience_bar_anim/experience_bar_anim_00010.png","experience_bar/experience_bar_anim/experience_bar_anim_00011.png","experience_bar/experience_bar_anim/experience_bar_anim_00012.png","experience_bar/experience_bar_anim/experience_bar_anim_00013.png","experience_bar/experience_bar_anim/experience_bar_anim_00014.png","experience_bar/experience_bar_anim/experience_bar_anim_00015.png","experience_bar/experience_bar_anim/experience_bar_anim_00016.png","experience_bar/experience_bar_anim/experience_bar_anim_00017.png","experience_bar/experience_bar_anim/experience_bar_anim_00018.png","experience_bar/experience_bar_anim/experience_bar_anim_00019.png","experience_bar/experience_bar_anim/experience_bar_anim_00020.png","experience_bar/experience_bar_anim/experience_bar_anim_00021.png","experience_bar/experience_bar_anim/experience_bar_anim_00022.png","experience_bar/experience_bar_anim/experience_bar_anim_00023.png","experience_bar/experience_bar_anim/experience_bar_anim_00024.png","experience_bar/experience_bar_anim/experience_bar_anim_00025.png","experience_bar/experience_bar_anim/experience_bar_anim_00026.png","experience_bar/experience_bar_anim/experience_bar_anim_00027.png","experience_bar/experience_bar_anim/experience_bar_anim_00028.png","experience_bar/experience_bar_anim/experience_bar_anim_00029.png","experience_bar/experience_bar_anim/experience_bar_anim_00030.png","experience_bar/experience_bar_anim/experience_bar_anim_00031.png","experience_bar/experience_bar_anim/experience_bar_anim_00032.png","experience_bar/experience_bar_anim/experience_bar_anim_00033.png","experience_bar/experience_bar_anim/experience_bar_anim_00034.png","experience_bar/experience_bar_anim/experience_bar_anim_00035.png","experience_bar/experience_bar_anim/experience_bar_anim_00036.png","experience_bar/experience_bar_anim/experience_bar_anim_00037.png","experience_bar/experience_bar_anim/experience_bar_anim_00038.png","experience_bar/experience_bar_anim/experience_bar_anim_00039.png","experience_bar/experience_bar_anim/experience_bar_anim_00040.png","experience_bar/experience_bar_anim/experience_bar_anim_00041.png","experience_bar/experience_bar_anim/experience_bar_anim_00042.png","experience_bar/experience_bar_anim/experience_bar_anim_00043.png","experience_bar/experience_bar_anim/experience_bar_anim_00044.png","experience_bar/experience_bar_anim/experience_bar_anim_00045.png","experience_bar/experience_bar_anim/experience_bar_anim_00046.png","experience_bar/experience_bar_anim/experience_bar_anim_00047.png","experience_bar/experience_bar_anim/experience_bar_anim_00048.png","experience_bar/experience_bar_anim/experience_bar_anim_00049.png","experience_bar/experience_bar_anim/experience_bar_anim_00050.png"],
+	"experience_bar_anim2": ["experience_bar/experience_bar_anim2/experience_bar_anim2_00000.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00001.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00002.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00003.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00004.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00005.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00006.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00007.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00008.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00009.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00010.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00011.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00012.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00013.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00014.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00015.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00016.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00017.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00018.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00019.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00020.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00021.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00022.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00023.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00024.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00025.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00026.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00027.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00028.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00029.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00030.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00031.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00032.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00033.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00034.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00035.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00036.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00037.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00038.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00039.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00040.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00041.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00042.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00043.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00044.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "5.webp",
+	"format": "RGBA8888",
+	"size": {"w":2038,"h":2028},
+	"scale": "1",
+	"related_multi_packs": [ "0.json", "1.json", "2.json", "3.json", "4.json", "6.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:50b96532ffaba2bdf0496eacd01c64cd:aca076c0725b04a103ada48982fbdfa8:326ac2a64d74276a90bba32f2b1c5619$"
+}
+}

@@ -1,0 +1,732 @@
+{"frames": {
+
+"buttons_interface/autoplay_numbers_back.png":
+{
+	"frame": {"x":1243,"y":331,"w":307,"h":551},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":551},
+	"sourceSize": {"w":307,"h":551}
+},
+"buttons_interface/buy_coins_01.png":
+{
+	"frame": {"x":1243,"y":640,"w":501,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_02.png":
+{
+	"frame": {"x":1243,"y":746,"w":501,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_03.png":
+{
+	"frame": {"x":1,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_04.png":
+{
+	"frame": {"x":107,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00000.png":
+{
+	"frame": {"x":1243,"y":640,"w":501,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00001.png":
+{
+	"frame": {"x":213,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00002.png":
+{
+	"frame": {"x":319,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00003.png":
+{
+	"frame": {"x":425,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00004.png":
+{
+	"frame": {"x":531,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00005.png":
+{
+	"frame": {"x":637,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00006.png":
+{
+	"frame": {"x":743,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00007.png":
+{
+	"frame": {"x":849,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00008.png":
+{
+	"frame": {"x":955,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00009.png":
+{
+	"frame": {"x":1061,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00010.png":
+{
+	"frame": {"x":1167,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00011.png":
+{
+	"frame": {"x":1273,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00012.png":
+{
+	"frame": {"x":1379,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00013.png":
+{
+	"frame": {"x":1485,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00014.png":
+{
+	"frame": {"x":1591,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00015.png":
+{
+	"frame": {"x":1697,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00016.png":
+{
+	"frame": {"x":1803,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/buy_coins_button/buy_coins_button_00017.png":
+{
+	"frame": {"x":1909,"y":1066,"w":501,"h":104},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":104},
+	"sourceSize": {"w":501,"h":104}
+},
+"buttons_interface/lobby_button_02.png":
+{
+	"frame": {"x":554,"y":806,"w":175,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":89},
+	"sourceSize": {"w":175,"h":89}
+},
+"buttons_interface/lobby_button_03.png":
+{
+	"frame": {"x":731,"y":806,"w":175,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":89},
+	"sourceSize": {"w":175,"h":89}
+},
+"buttons_interface/lobby_button_04.png":
+{
+	"frame": {"x":908,"y":806,"w":175,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":89},
+	"sourceSize": {"w":175,"h":89}
+},
+"buttons_interface/minus_button_02.png":
+{
+	"frame": {"x":1,"y":903,"w":119,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":147},
+	"sourceSize": {"w":119,"h":147}
+},
+"buttons_interface/minus_button_03.png":
+{
+	"frame": {"x":1399,"y":903,"w":119,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":147},
+	"sourceSize": {"w":119,"h":147}
+},
+"buttons_interface/minus_button_04.png":
+{
+	"frame": {"x":1520,"y":903,"w":119,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":147},
+	"sourceSize": {"w":119,"h":147}
+},
+"buttons_interface/plus_button_01.png":
+{
+	"frame": {"x":1641,"y":852,"w":118,"h":147},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":147},
+	"sourceSize": {"w":118,"h":147}
+},
+"buttons_interface/plus_button_02.png":
+{
+	"frame": {"x":1847,"y":903,"w":118,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":147},
+	"sourceSize": {"w":118,"h":147}
+},
+"buttons_interface/settings_button_01.png":
+{
+	"frame": {"x":1085,"y":806,"w":101,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":89},
+	"sourceSize": {"w":101,"h":89}
+},
+"buttons_interface/settings_button_02.png":
+{
+	"frame": {"x":1641,"y":972,"w":101,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":89},
+	"sourceSize": {"w":101,"h":89}
+},
+"buttons_interface/settings_button_03.png":
+{
+	"frame": {"x":1744,"y":972,"w":101,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":89},
+	"sourceSize": {"w":101,"h":89}
+},
+"buttons_interface/spin_button_01.png":
+{
+	"frame": {"x":974,"y":897,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_03.png":
+{
+	"frame": {"x":122,"y":898,"w":424,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":424,"h":164},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00000.png":
+{
+	"frame": {"x":974,"y":897,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00001.png":
+{
+	"frame": {"x":974,"y":897,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00056.png":
+{
+	"frame": {"x":974,"y":897,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00057.png":
+{
+	"frame": {"x":974,"y":897,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00058.png":
+{
+	"frame": {"x":974,"y":897,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation/spin_button_animation_00059.png":
+{
+	"frame": {"x":974,"y":897,"w":423,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":423,"h":167},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation_back/spin_button_animation_back_00003.png":
+{
+	"frame": {"x":1834,"y":1,"w":449,"h":193},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":449,"h":193},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_animation_back/spin_button_animation_back_00004.png":
+{
+	"frame": {"x":1796,"y":452,"w":449,"h":193},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":449,"h":193},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_interface/spin_button_stop_03.png":
+{
+	"frame": {"x":548,"y":898,"w":424,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":424,"h":164},
+	"sourceSize": {"w":449,"h":194}
+},
+"buttons_settings/close_button_03.png":
+{
+	"frame": {"x":56,"y":806,"w":90,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":81},
+	"sourceSize": {"w":90,"h":81}
+},
+"buttons_settings/close_button_04.png":
+{
+	"frame": {"x":139,"y":806,"w":90,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":81},
+	"sourceSize": {"w":90,"h":81}
+},
+"buttons_settings/switch_button_on.png":
+{
+	"frame": {"x":1,"y":806,"w":93,"h":53},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":53},
+	"sourceSize": {"w":93,"h":53}
+},
+"buttons_settings/yellow_button1_01.png":
+{
+	"frame": {"x":222,"y":806,"w":90,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":81},
+	"sourceSize": {"w":90,"h":81}
+},
+"buttons_settings/yellow_button1_02.png":
+{
+	"frame": {"x":305,"y":806,"w":90,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":81},
+	"sourceSize": {"w":90,"h":81}
+},
+"buttons_settings/yellow_button1_03.png":
+{
+	"frame": {"x":388,"y":806,"w":90,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":81},
+	"sourceSize": {"w":90,"h":81}
+},
+"buttons_settings/yellow_button1_04.png":
+{
+	"frame": {"x":471,"y":806,"w":90,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":81},
+	"sourceSize": {"w":90,"h":81}
+},
+"drop_menu/switch_button_on.png":
+{
+	"frame": {"x":1,"y":806,"w":93,"h":53},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":53},
+	"sourceSize": {"w":93,"h":53}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00007.png":
+{
+	"frame": {"x":1,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00008.png":
+{
+	"frame": {"x":66,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00009.png":
+{
+	"frame": {"x":131,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00010.png":
+{
+	"frame": {"x":196,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00011.png":
+{
+	"frame": {"x":261,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00012.png":
+{
+	"frame": {"x":326,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00013.png":
+{
+	"frame": {"x":391,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00014.png":
+{
+	"frame": {"x":456,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00015.png":
+{
+	"frame": {"x":521,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00016.png":
+{
+	"frame": {"x":586,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00017.png":
+{
+	"frame": {"x":651,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00018.png":
+{
+	"frame": {"x":716,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00019.png":
+{
+	"frame": {"x":781,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00020.png":
+{
+	"frame": {"x":846,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00021.png":
+{
+	"frame": {"x":911,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00022.png":
+{
+	"frame": {"x":976,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00023.png":
+{
+	"frame": {"x":1041,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00024.png":
+{
+	"frame": {"x":1106,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00025.png":
+{
+	"frame": {"x":1171,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00026.png":
+{
+	"frame": {"x":1236,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00027.png":
+{
+	"frame": {"x":1301,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00028.png":
+{
+	"frame": {"x":1366,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00029.png":
+{
+	"frame": {"x":1431,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00030.png":
+{
+	"frame": {"x":1496,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00031.png":
+{
+	"frame": {"x":1561,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00032.png":
+{
+	"frame": {"x":1626,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00033.png":
+{
+	"frame": {"x":1691,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00034.png":
+{
+	"frame": {"x":1756,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00035.png":
+{
+	"frame": {"x":1821,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00036.png":
+{
+	"frame": {"x":1886,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim/experience_bar_anim_00037.png":
+{
+	"frame": {"x":1951,"y":1569,"w":478,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":478,"h":63},
+	"sourceSize": {"w":479,"h":63}
+},
+"experience_bar/experience_bar_anim2/experience_bar_anim2_00002.png":
+{
+	"frame": {"x":1991,"y":452,"w":305,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":305,"h":56},
+	"sourceSize": {"w":307,"h":63}
+},
+"experience_bar/experience_bar_anim2/experience_bar_anim2_00003.png":
+{
+	"frame": {"x":1991,"y":759,"w":305,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":305,"h":56},
+	"sourceSize": {"w":307,"h":63}
+},
+"gamble/gamble_texts.png":
+{
+	"frame": {"x":1,"y":1,"w":1240,"h":803},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":205,"y":17,"w":1240,"h":803},
+	"sourceSize": {"w":1621,"h":1005}
+},
+"interface/win_back_01.png":
+{
+	"frame": {"x":1243,"y":1,"w":589,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":589,"h":163},
+	"sourceSize": {"w":589,"h":163}
+},
+"interface/win_back_02.png":
+{
+	"frame": {"x":1243,"y":166,"w":589,"h":163},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":589,"h":163},
+	"sourceSize": {"w":589,"h":163}
+}},
+"animations": {
+	"buy_coins_button": ["buttons_interface/buy_coins_button/buy_coins_button_00000.png","buttons_interface/buy_coins_button/buy_coins_button_00001.png","buttons_interface/buy_coins_button/buy_coins_button_00002.png","buttons_interface/buy_coins_button/buy_coins_button_00003.png","buttons_interface/buy_coins_button/buy_coins_button_00004.png","buttons_interface/buy_coins_button/buy_coins_button_00005.png","buttons_interface/buy_coins_button/buy_coins_button_00006.png","buttons_interface/buy_coins_button/buy_coins_button_00007.png","buttons_interface/buy_coins_button/buy_coins_button_00008.png","buttons_interface/buy_coins_button/buy_coins_button_00009.png","buttons_interface/buy_coins_button/buy_coins_button_00010.png","buttons_interface/buy_coins_button/buy_coins_button_00011.png","buttons_interface/buy_coins_button/buy_coins_button_00012.png","buttons_interface/buy_coins_button/buy_coins_button_00013.png","buttons_interface/buy_coins_button/buy_coins_button_00014.png","buttons_interface/buy_coins_button/buy_coins_button_00015.png","buttons_interface/buy_coins_button/buy_coins_button_00016.png","buttons_interface/buy_coins_button/buy_coins_button_00017.png","buttons_interface/buy_coins_button/buy_coins_button_00018.png","buttons_interface/buy_coins_button/buy_coins_button_00019.png","buttons_interface/buy_coins_button/buy_coins_button_00020.png","buttons_interface/buy_coins_button/buy_coins_button_00021.png","buttons_interface/buy_coins_button/buy_coins_button_00022.png","buttons_interface/buy_coins_button/buy_coins_button_00023.png","buttons_interface/buy_coins_button/buy_coins_button_00024.png","buttons_interface/buy_coins_button/buy_coins_button_00025.png","buttons_interface/buy_coins_button/buy_coins_button_00026.png","buttons_interface/buy_coins_button/buy_coins_button_00027.png","buttons_interface/buy_coins_button/buy_coins_button_00028.png","buttons_interface/buy_coins_button/buy_coins_button_00029.png","buttons_interface/buy_coins_button/buy_coins_button_00030.png","buttons_interface/buy_coins_button/buy_coins_button_00031.png","buttons_interface/buy_coins_button/buy_coins_button_00032.png","buttons_interface/buy_coins_button/buy_coins_button_00033.png","buttons_interface/buy_coins_button/buy_coins_button_00034.png","buttons_interface/buy_coins_button/buy_coins_button_00035.png","buttons_interface/buy_coins_button/buy_coins_button_00036.png","buttons_interface/buy_coins_button/buy_coins_button_00037.png","buttons_interface/buy_coins_button/buy_coins_button_00038.png","buttons_interface/buy_coins_button/buy_coins_button_00039.png"],
+	"spin_button_animation": ["buttons_interface/spin_button_animation/spin_button_animation_00000.png","buttons_interface/spin_button_animation/spin_button_animation_00001.png","buttons_interface/spin_button_animation/spin_button_animation_00002.png","buttons_interface/spin_button_animation/spin_button_animation_00003.png","buttons_interface/spin_button_animation/spin_button_animation_00004.png","buttons_interface/spin_button_animation/spin_button_animation_00005.png","buttons_interface/spin_button_animation/spin_button_animation_00006.png","buttons_interface/spin_button_animation/spin_button_animation_00007.png","buttons_interface/spin_button_animation/spin_button_animation_00008.png","buttons_interface/spin_button_animation/spin_button_animation_00009.png","buttons_interface/spin_button_animation/spin_button_animation_00010.png","buttons_interface/spin_button_animation/spin_button_animation_00011.png","buttons_interface/spin_button_animation/spin_button_animation_00012.png","buttons_interface/spin_button_animation/spin_button_animation_00013.png","buttons_interface/spin_button_animation/spin_button_animation_00014.png","buttons_interface/spin_button_animation/spin_button_animation_00015.png","buttons_interface/spin_button_animation/spin_button_animation_00016.png","buttons_interface/spin_button_animation/spin_button_animation_00017.png","buttons_interface/spin_button_animation/spin_button_animation_00018.png","buttons_interface/spin_button_animation/spin_button_animation_00019.png","buttons_interface/spin_button_animation/spin_button_animation_00020.png","buttons_interface/spin_button_animation/spin_button_animation_00021.png","buttons_interface/spin_button_animation/spin_button_animation_00022.png","buttons_interface/spin_button_animation/spin_button_animation_00023.png","buttons_interface/spin_button_animation/spin_button_animation_00024.png","buttons_interface/spin_button_animation/spin_button_animation_00025.png","buttons_interface/spin_button_animation/spin_button_animation_00026.png","buttons_interface/spin_button_animation/spin_button_animation_00027.png","buttons_interface/spin_button_animation/spin_button_animation_00028.png","buttons_interface/spin_button_animation/spin_button_animation_00029.png","buttons_interface/spin_button_animation/spin_button_animation_00030.png","buttons_interface/spin_button_animation/spin_button_animation_00031.png","buttons_interface/spin_button_animation/spin_button_animation_00032.png","buttons_interface/spin_button_animation/spin_button_animation_00033.png","buttons_interface/spin_button_animation/spin_button_animation_00034.png","buttons_interface/spin_button_animation/spin_button_animation_00035.png","buttons_interface/spin_button_animation/spin_button_animation_00036.png","buttons_interface/spin_button_animation/spin_button_animation_00037.png","buttons_interface/spin_button_animation/spin_button_animation_00038.png","buttons_interface/spin_button_animation/spin_button_animation_00039.png","buttons_interface/spin_button_animation/spin_button_animation_00040.png","buttons_interface/spin_button_animation/spin_button_animation_00041.png","buttons_interface/spin_button_animation/spin_button_animation_00042.png","buttons_interface/spin_button_animation/spin_button_animation_00043.png","buttons_interface/spin_button_animation/spin_button_animation_00044.png","buttons_interface/spin_button_animation/spin_button_animation_00045.png","buttons_interface/spin_button_animation/spin_button_animation_00046.png","buttons_interface/spin_button_animation/spin_button_animation_00047.png","buttons_interface/spin_button_animation/spin_button_animation_00048.png","buttons_interface/spin_button_animation/spin_button_animation_00049.png","buttons_interface/spin_button_animation/spin_button_animation_00050.png","buttons_interface/spin_button_animation/spin_button_animation_00051.png","buttons_interface/spin_button_animation/spin_button_animation_00052.png","buttons_interface/spin_button_animation/spin_button_animation_00053.png","buttons_interface/spin_button_animation/spin_button_animation_00054.png","buttons_interface/spin_button_animation/spin_button_animation_00055.png","buttons_interface/spin_button_animation/spin_button_animation_00056.png","buttons_interface/spin_button_animation/spin_button_animation_00057.png","buttons_interface/spin_button_animation/spin_button_animation_00058.png","buttons_interface/spin_button_animation/spin_button_animation_00059.png","buttons_interface/spin_button_animation/spin_button_animation_00060.png","buttons_interface/spin_button_animation/spin_button_animation_00061.png","buttons_interface/spin_button_animation/spin_button_animation_00062.png","buttons_interface/spin_button_animation/spin_button_animation_00063.png","buttons_interface/spin_button_animation/spin_button_animation_00064.png","buttons_interface/spin_button_animation/spin_button_animation_00065.png","buttons_interface/spin_button_animation/spin_button_animation_00066.png","buttons_interface/spin_button_animation/spin_button_animation_00067.png","buttons_interface/spin_button_animation/spin_button_animation_00068.png","buttons_interface/spin_button_animation/spin_button_animation_00069.png","buttons_interface/spin_button_animation/spin_button_animation_00070.png","buttons_interface/spin_button_animation/spin_button_animation_00071.png","buttons_interface/spin_button_animation/spin_button_animation_00072.png","buttons_interface/spin_button_animation/spin_button_animation_00073.png","buttons_interface/spin_button_animation/spin_button_animation_00074.png","buttons_interface/spin_button_animation/spin_button_animation_00075.png","buttons_interface/spin_button_animation/spin_button_animation_00076.png","buttons_interface/spin_button_animation/spin_button_animation_00077.png","buttons_interface/spin_button_animation/spin_button_animation_00078.png","buttons_interface/spin_button_animation/spin_button_animation_00079.png","buttons_interface/spin_button_animation/spin_button_animation_00080.png","buttons_interface/spin_button_animation/spin_button_animation_00081.png","buttons_interface/spin_button_animation/spin_button_animation_00082.png","buttons_interface/spin_button_animation/spin_button_animation_00083.png","buttons_interface/spin_button_animation/spin_button_animation_00084.png","buttons_interface/spin_button_animation/spin_button_animation_00085.png","buttons_interface/spin_button_animation/spin_button_animation_00086.png","buttons_interface/spin_button_animation/spin_button_animation_00087.png","buttons_interface/spin_button_animation/spin_button_animation_00088.png","buttons_interface/spin_button_animation/spin_button_animation_00089.png","buttons_interface/spin_button_animation/spin_button_animation_00090.png","buttons_interface/spin_button_animation/spin_button_animation_00091.png","buttons_interface/spin_button_animation/spin_button_animation_00092.png","buttons_interface/spin_button_animation/spin_button_animation_00093.png","buttons_interface/spin_button_animation/spin_button_animation_00094.png","buttons_interface/spin_button_animation/spin_button_animation_00095.png","buttons_interface/spin_button_animation/spin_button_animation_00096.png","buttons_interface/spin_button_animation/spin_button_animation_00097.png","buttons_interface/spin_button_animation/spin_button_animation_00098.png"],
+	"spin_button_animation_back": ["buttons_interface/spin_button_animation_back/spin_button_animation_back_00000.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00001.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00002.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00003.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00004.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00005.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00006.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00007.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00008.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00009.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00010.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00011.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00012.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00013.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00014.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00015.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00016.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00017.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00018.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00019.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00020.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00021.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00022.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00023.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00024.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00025.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00026.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00027.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00028.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00029.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00030.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00031.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00032.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00033.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00034.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00035.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00036.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00037.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00038.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00039.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00040.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00041.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00042.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00043.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00044.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00045.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00046.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00047.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00048.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00049.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00050.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00051.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00052.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00053.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00054.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00055.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00056.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00057.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00058.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00059.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00060.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00061.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00062.png","buttons_interface/spin_button_animation_back/spin_button_animation_back_00063.png"],
+	"experience_bar_anim": ["experience_bar/experience_bar_anim/experience_bar_anim_00000.png","experience_bar/experience_bar_anim/experience_bar_anim_00001.png","experience_bar/experience_bar_anim/experience_bar_anim_00002.png","experience_bar/experience_bar_anim/experience_bar_anim_00003.png","experience_bar/experience_bar_anim/experience_bar_anim_00004.png","experience_bar/experience_bar_anim/experience_bar_anim_00005.png","experience_bar/experience_bar_anim/experience_bar_anim_00006.png","experience_bar/experience_bar_anim/experience_bar_anim_00007.png","experience_bar/experience_bar_anim/experience_bar_anim_00008.png","experience_bar/experience_bar_anim/experience_bar_anim_00009.png","experience_bar/experience_bar_anim/experience_bar_anim_00010.png","experience_bar/experience_bar_anim/experience_bar_anim_00011.png","experience_bar/experience_bar_anim/experience_bar_anim_00012.png","experience_bar/experience_bar_anim/experience_bar_anim_00013.png","experience_bar/experience_bar_anim/experience_bar_anim_00014.png","experience_bar/experience_bar_anim/experience_bar_anim_00015.png","experience_bar/experience_bar_anim/experience_bar_anim_00016.png","experience_bar/experience_bar_anim/experience_bar_anim_00017.png","experience_bar/experience_bar_anim/experience_bar_anim_00018.png","experience_bar/experience_bar_anim/experience_bar_anim_00019.png","experience_bar/experience_bar_anim/experience_bar_anim_00020.png","experience_bar/experience_bar_anim/experience_bar_anim_00021.png","experience_bar/experience_bar_anim/experience_bar_anim_00022.png","experience_bar/experience_bar_anim/experience_bar_anim_00023.png","experience_bar/experience_bar_anim/experience_bar_anim_00024.png","experience_bar/experience_bar_anim/experience_bar_anim_00025.png","experience_bar/experience_bar_anim/experience_bar_anim_00026.png","experience_bar/experience_bar_anim/experience_bar_anim_00027.png","experience_bar/experience_bar_anim/experience_bar_anim_00028.png","experience_bar/experience_bar_anim/experience_bar_anim_00029.png","experience_bar/experience_bar_anim/experience_bar_anim_00030.png","experience_bar/experience_bar_anim/experience_bar_anim_00031.png","experience_bar/experience_bar_anim/experience_bar_anim_00032.png","experience_bar/experience_bar_anim/experience_bar_anim_00033.png","experience_bar/experience_bar_anim/experience_bar_anim_00034.png","experience_bar/experience_bar_anim/experience_bar_anim_00035.png","experience_bar/experience_bar_anim/experience_bar_anim_00036.png","experience_bar/experience_bar_anim/experience_bar_anim_00037.png","experience_bar/experience_bar_anim/experience_bar_anim_00038.png","experience_bar/experience_bar_anim/experience_bar_anim_00039.png","experience_bar/experience_bar_anim/experience_bar_anim_00040.png","experience_bar/experience_bar_anim/experience_bar_anim_00041.png","experience_bar/experience_bar_anim/experience_bar_anim_00042.png","experience_bar/experience_bar_anim/experience_bar_anim_00043.png","experience_bar/experience_bar_anim/experience_bar_anim_00044.png","experience_bar/experience_bar_anim/experience_bar_anim_00045.png","experience_bar/experience_bar_anim/experience_bar_anim_00046.png","experience_bar/experience_bar_anim/experience_bar_anim_00047.png","experience_bar/experience_bar_anim/experience_bar_anim_00048.png","experience_bar/experience_bar_anim/experience_bar_anim_00049.png","experience_bar/experience_bar_anim/experience_bar_anim_00050.png"],
+	"experience_bar_anim2": ["experience_bar/experience_bar_anim2/experience_bar_anim2_00000.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00001.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00002.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00003.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00004.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00005.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00006.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00007.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00008.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00009.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00010.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00011.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00012.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00013.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00014.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00015.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00016.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00017.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00018.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00019.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00020.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00021.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00022.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00023.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00024.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00025.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00026.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00027.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00028.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00029.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00030.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00031.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00032.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00033.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00034.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00035.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00036.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00037.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00038.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00039.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00040.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00041.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00042.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00043.png","experience_bar/experience_bar_anim2/experience_bar_anim2_00044.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "1.webp",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "0.json", "2.json", "3.json", "4.json", "5.json", "6.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:50b96532ffaba2bdf0496eacd01c64cd:aca076c0725b04a103ada48982fbdfa8:326ac2a64d74276a90bba32f2b1c5619$"
+}
+}
